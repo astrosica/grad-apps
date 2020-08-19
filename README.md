@@ -1,2 +1,1 @@
-# grad-apps
-My grad school applications.
+# Grad school applications
